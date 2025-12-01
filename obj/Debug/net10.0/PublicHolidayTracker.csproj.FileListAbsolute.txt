@@ -1,0 +1,14 @@
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.AssemblyInfoInputs.cache
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.AssemblyInfo.cs
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.csproj.CoreCompileInputs.cache
+/Users/emirkibra/Desktop/PublicHolidayTracker/bin/Debug/net10.0/PublicHolidayTracker
+/Users/emirkibra/Desktop/PublicHolidayTracker/bin/Debug/net10.0/PublicHolidayTracker.deps.json
+/Users/emirkibra/Desktop/PublicHolidayTracker/bin/Debug/net10.0/PublicHolidayTracker.runtimeconfig.json
+/Users/emirkibra/Desktop/PublicHolidayTracker/bin/Debug/net10.0/PublicHolidayTracker.dll
+/Users/emirkibra/Desktop/PublicHolidayTracker/bin/Debug/net10.0/PublicHolidayTracker.pdb
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.dll
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/refint/PublicHolidayTracker.dll
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.pdb
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/PublicHolidayTracker.genruntimeconfig.cache
+/Users/emirkibra/Desktop/PublicHolidayTracker/obj/Debug/net10.0/ref/PublicHolidayTracker.dll
